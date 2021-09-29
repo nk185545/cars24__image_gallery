@@ -1,0 +1,12 @@
+.title_div_cls{
+    display:flex
+}
+.favcls{
+    margin-left: auto;
+}
+
+#footer{
+    position:fixed;
+    bottom: 0;
+    width:100%;
+}
